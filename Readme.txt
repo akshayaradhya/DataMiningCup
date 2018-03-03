@@ -1,0 +1,1 @@
+Data Mining Cup was held as part of Business Analytics project at TUM. Unfortunately, the dataset is from BMW and cannot be shared publicly.
